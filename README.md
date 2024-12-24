@@ -36,6 +36,7 @@ The ship can only move 1 unit at a time in the IKJLUO direction. Same with the s
 In the game, there are symbols such as:
 - 'Δ' OR '‣'    --> Your ship
 - '✪'           --> Destination
+- '?'           --> Unknown/Unscanned location (Unknown consequences)
 - '*'           --> Empty Space (deal 0 damage to the ship)
 - 'D'           --> Debris (deal 1 damage to the ship)
 - 'N'           --> Nova (deal 0-2 damages to the ship)
